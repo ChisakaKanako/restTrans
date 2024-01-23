@@ -1,10 +1,9 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
-  base: '/restTrans/',
   title: "restTrans",
   description: "记录那些逝去的跨性别者🕯️",
   head: [
-    ['link', { rel: 'icon', href: '/restTrans/icon.png'}]
+    ['link', { rel: 'icon', href: '/icon.png'}]
   ],
   themeConfig: {
     search: {
