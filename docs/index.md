@@ -7,7 +7,7 @@ hero:
   image:
     src: /icon.png
   actions:
-    - theme: alt
+    - theme: brand
       text: 查看文档
       link: /menu.md
 ---
