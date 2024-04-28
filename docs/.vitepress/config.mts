@@ -24,15 +24,15 @@ export default defineConfig({
       {
         text: '2023年',
         items: [
-          { text: '2023-日期已确认', link: '/document/2023a.md' },
-          { text: '2023-日期未确认', link: '/document/2023b.md' }
+          { text: '日期已确认', link: '/document/2023a.md' },
+          { text: '日期未确认', link: '/document/2023b.md' }
         ]
       },
       {
         text: '2024年',
         items: [
-          { text: '2024-日期已确认', link: '/document/2024a.md' },
-          { text: '2024-日期未确认', link: '/document/2024b.md' }
+          { text: '日期已确认', link: '/document/2024a.md' },
+          { text: '日期未确认', link: '/document/2024b.md' }
         ]
       },
     ],
