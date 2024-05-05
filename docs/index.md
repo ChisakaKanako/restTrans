@@ -3,7 +3,7 @@ layout: home
 title: 主页
 hero:
   name: "restTrans"
-  text: "那些逝去的跨性别者"
+  text: "那些逝去的跨儿们"
   image:
     src: /icon.png
   actions:
