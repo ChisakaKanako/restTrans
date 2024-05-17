@@ -8,6 +8,6 @@ hero:
     src: /icon.png
   actions:
     - theme: brand
-      text: 查看文档
+      text: 查看信息
       link: /menu.md
 ---
