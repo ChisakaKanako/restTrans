@@ -3,7 +3,7 @@ layout: home
 title: 主页
 hero:
   name: "restTrans"
-  text: "那些逝去的跨儿们"
+  text: "在不为人知的角落中..."
   image:
     src: /icon.png
   actions:
