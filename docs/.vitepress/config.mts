@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
-  base: '/base/',
+  base: '/restTrans/',
   title: "restTrans",
   head: [
     ['link', { rel: 'icon', href: '/icon.png'}]
