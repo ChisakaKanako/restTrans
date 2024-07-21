@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
+  base: '/base/',
   title: "restTrans",
   head: [
     ['link', { rel: 'icon', href: '/icon.png'}]
@@ -9,9 +10,6 @@ export default defineConfig({
     darkModeSwitchLabel: '切换深色模式',
     outlineTitle: '在此页面中',
     returnToTopLabel: '回到顶部',
-    footer: {
-      copyright: '© 2024 restTrans'
-    },
     docFooter: {
       prev: '上一页',
       next: '下一页',
